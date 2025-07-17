@@ -14,5 +14,15 @@ A Python-based Sweet Shop Management System developed using **Test Driven Develo
 - Fully covered with unit tests using `pytest`
 
 ## 📁 Project Structure
+sweetshop_core.py # All classes, logic, and custom exceptions
+test_sweetshop.py # Automated test cases using pytest
 
+shell
+Copy
+Edit
+
+## ✅ Getting Started
+
+### 1. Install dependencies
+```bash
 
